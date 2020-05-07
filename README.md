@@ -1,2 +1,2 @@
 # Allgemein
-Project Daten
+Allgemeine Daten zu dem Projekt
