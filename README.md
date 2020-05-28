@@ -1,2 +1,2 @@
 # Allgemein
-Allgemeine Daten zu dem Projekt
+Allgemeine Dokumente zu dem Projekt
