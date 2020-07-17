@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD 3.00.02 Production Release
+If you wish to view this file go to https://www.tinycad.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='100.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='0'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='1'>
+			<HEIGHT>-10</HEIGHT>
+			<WIDTH>0</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='3'>
+			<HEIGHT>-43</HEIGHT>
+			<WIDTH>19</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='21'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>7</WIDTH>
+			<WEIGHT>700</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='29'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>700</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='30'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>700</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='3'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='4'>
+			<STYLE>0</STYLE>
+			<COLOR>408000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='7'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='10'>
+			<STYLE>2</STYLE>
+			<COLOR>C0C0C0</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='12'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='13'>
+			<STYLE>0</STYLE>
+			<COLOR>408000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='14'>
+			<STYLE>0</STYLE>
+			<COLOR>408000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='3'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='5'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<SYMBOLDEF id='1'>
+			<NAME type='0'>RaspberryPi4</NAME>
+			<REF type='0'>RP4?</REF>
+			<DESCRIPTION>Raspberry Pi 4</DESCRIPTION>
+			<PPP>1</PPP>
+			<GUID></GUID>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='258.00000,148.00000'/>
+			<TinyCAD>
+				<RECTANGLE a='44.00000,62.00000' b='258.00000,142.00000' style='2' fill='2'/>
+				<TEXT pos='122.00000,96.00000' direction='3' font='3' color='000000'>Raspberry Pi 4</TEXT>
+				<TEXT pos='130.00000,108.00000' direction='3' font='3' color='515151'>GPIO-Pins</TEXT>
+				<PIN pos='246.00000,56.00000' which='0' elec='1' direction='1' part='0' number='1' show='3' length='30' number_pos='0' centre_name='0'>3,3V</PIN>
+				<PIN pos='248.00000,148.00000' which='0' elec='1' direction='0' part='0' number='2' show='3' length='30' number_pos='0' centre_name='0'>5V</PIN>
+				<PIN pos='236.00000,56.00000' which='0' elec='0' direction='1' part='0' number='3' show='3' length='30' number_pos='0' centre_name='0'>GPIO 02</PIN>
+				<PIN pos='238.00000,148.00000' which='0' elec='1' direction='0' part='0' number='4' show='3' length='30' number_pos='0' centre_name='0'>5V</PIN>
+				<PIN pos='226.00000,56.00000' which='0' elec='0' direction='1' part='0' number='5' show='3' length='30' number_pos='0' centre_name='0'>GPIO 03</PIN>
+				<PIN pos='228.00000,148.00000' which='0' elec='1' direction='0' part='0' number='6' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='216.00000,56.00000' which='0' elec='0' direction='1' part='0' number='7' show='3' length='30' number_pos='0' centre_name='0'>GPIO 04 / TXD 2</PIN>
+				<PIN pos='218.00000,148.00000' which='0' elec='0' direction='0' part='0' number='8' show='3' length='30' number_pos='0' centre_name='0'>GPIO 14 / TXD 0</PIN>
+				<PIN pos='206.00000,56.00000' which='0' elec='0' direction='1' part='0' number='9' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='208.00000,148.00000' which='0' elec='0' direction='0' part='0' number='10' show='3' length='30' number_pos='0' centre_name='0'>GPIO 15 / RXD 0</PIN>
+				<PIN pos='196.00000,56.00000' which='0' elec='0' direction='1' part='0' number='11' show='3' length='30' number_pos='0' centre_name='0'>GPIO 17</PIN>
+				<PIN pos='198.00000,148.00000' which='0' elec='0' direction='0' part='0' number='12' show='3' length='30' number_pos='0' centre_name='0'>GPIO 18 / PWM 0</PIN>
+				<PIN pos='186.00000,56.00000' which='0' elec='0' direction='1' part='0' number='13' show='3' length='30' number_pos='0' centre_name='0'>GPIO 27</PIN>
+				<PIN pos='188.00000,148.00000' which='0' elec='0' direction='0' part='0' number='14' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='176.00000,56.00000' which='0' elec='0' direction='1' part='0' number='15' show='3' length='30' number_pos='0' centre_name='0'>GPIO 22</PIN>
+				<PIN pos='178.00000,148.00000' which='0' elec='0' direction='0' part='0' number='16' show='3' length='30' number_pos='0' centre_name='0'>GPIO 23</PIN>
+				<PIN pos='166.00000,56.00000' which='0' elec='1' direction='1' part='0' number='17' show='3' length='30' number_pos='0' centre_name='0'>3,3V</PIN>
+				<PIN pos='168.00000,148.00000' which='0' elec='0' direction='0' part='0' number='18' show='3' length='30' number_pos='0' centre_name='0'>GPIO 24</PIN>
+				<PIN pos='156.00000,56.00000' which='0' elec='0' direction='1' part='0' number='19' show='3' length='30' number_pos='0' centre_name='0'>GPIO 10</PIN>
+				<PIN pos='158.00000,148.00000' which='0' elec='0' direction='0' part='0' number='20' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='146.00000,56.00000' which='0' elec='0' direction='1' part='0' number='21' show='3' length='30' number_pos='0' centre_name='0'>GPIO 09 / RXD 3</PIN>
+				<PIN pos='148.00000,148.00000' which='0' elec='0' direction='0' part='0' number='22' show='3' length='30' number_pos='0' centre_name='0'>GPIO 25</PIN>
+				<PIN pos='136.00000,56.00000' which='0' elec='0' direction='1' part='0' number='23' show='3' length='30' number_pos='0' centre_name='0'>GPIO 11</PIN>
+				<PIN pos='138.00000,148.00000' which='0' elec='0' direction='0' part='0' number='24' show='3' length='30' number_pos='0' centre_name='0'>GPIO 08 / TXD 3</PIN>
+				<PIN pos='126.00000,56.00000' which='0' elec='0' direction='1' part='0' number='25' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='128.00000,148.00000' which='0' elec='0' direction='0' part='0' number='26' show='3' length='30' number_pos='0' centre_name='0'>GPIO 07</PIN>
+				<PIN pos='116.00000,56.00000' which='0' elec='0' direction='1' part='0' number='27' show='3' length='30' number_pos='0' centre_name='0'>GPIO 00 / TXD 1</PIN>
+				<PIN pos='118.00000,148.00000' which='0' elec='0' direction='0' part='0' number='28' show='3' length='30' number_pos='0' centre_name='0'>GPIO 01 / RXD 1</PIN>
+				<PIN pos='106.00000,56.00000' which='0' elec='0' direction='1' part='0' number='29' show='3' length='30' number_pos='0' centre_name='0'>GPIO 05 / RXD 2</PIN>
+				<PIN pos='108.00000,148.00000' which='0' elec='0' direction='0' part='0' number='30' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='96.00000,56.00000' which='0' elec='0' direction='1' part='0' number='31' show='3' length='30' number_pos='0' centre_name='0'>GPIO 06</PIN>
+				<PIN pos='98.00000,148.00000' which='0' elec='0' direction='0' part='0' number='32' show='3' length='30' number_pos='0' centre_name='0'>GPIO 12 / TXD 4</PIN>
+				<PIN pos='86.00000,56.00000' which='0' elec='0' direction='1' part='0' number='33' show='3' length='30' number_pos='0' centre_name='0'>GPIO 13 / RXD 4</PIN>
+				<PIN pos='88.00000,148.00000' which='0' elec='0' direction='0' part='0' number='34' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='76.00000,56.00000' which='0' elec='0' direction='1' part='0' number='35' show='3' length='30' number_pos='0' centre_name='0'>GPIO 19</PIN>
+				<PIN pos='78.00000,148.00000' which='0' elec='0' direction='0' part='0' number='36' show='3' length='30' number_pos='0' centre_name='0'>GPIO 16</PIN>
+				<PIN pos='66.00000,56.00000' which='0' elec='0' direction='1' part='0' number='37' show='3' length='30' number_pos='0' centre_name='0'>GPIO 26</PIN>
+				<PIN pos='68.00000,148.00000' which='0' elec='0' direction='0' part='0' number='38' show='3' length='30' number_pos='0' centre_name='0'>GPIO 20</PIN>
+				<PIN pos='56.00000,56.00000' which='0' elec='0' direction='1' part='0' number='39' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='58.00000,148.00000' which='0' elec='0' direction='0' part='0' number='40' show='3' length='30' number_pos='0' centre_name='0'>GPIO 21</PIN>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='3'>
+			<NAME type='0'>ArduinoMini</NAME>
+			<REF type='0'>AM?</REF>
+			<DESCRIPTION>Arduino Mini</DESCRIPTION>
+			<PPP>1</PPP>
+			<GUID></GUID>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='126.00000,58.00000'/>
+			<TinyCAD>
+				<RECTANGLE a='26.00000,20.00000' b='120.00000,48.00000' style='2' fill='2'/>
+				<PIN pos='116.00000,54.00000' which='0' elec='0' direction='0' part='0' number='1' show='3' length='30' number_pos='0' centre_name='0'>RAW</PIN>
+				<PIN pos='108.00000,54.00000' which='0' elec='1' direction='0' part='0' number='2' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='100.00000,54.00000' which='0' elec='0' direction='0' part='0' number='3' show='3' length='30' number_pos='0' centre_name='0'>RESET</PIN>
+				<PIN pos='92.00000,54.00000' which='0' elec='1' direction='0' part='0' number='4' show='3' length='30' number_pos='0' centre_name='0'>VCC</PIN>
+				<PIN pos='84.00000,54.00000' which='0' elec='0' direction='0' part='0' number='5' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='76.00000,54.00000' which='0' elec='0' direction='0' part='0' number='6' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='68.00000,54.00000' which='0' elec='0' direction='0' part='0' number='7' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='60.00000,54.00000' which='0' elec='0' direction='0' part='0' number='8' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='52.00000,54.00000' which='0' elec='0' direction='0' part='0' number='9' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='44.00000,54.00000' which='0' elec='0' direction='0' part='0' number='10' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='36.00000,54.00000' which='0' elec='0' direction='0' part='0' number='11' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='28.00000,54.00000' which='0' elec='0' direction='0' part='0' number='12' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<RECTANGLE a='90.00000,38.00000' b='78.00000,44.00000' style='2' fill='3'/>
+				<PIN pos='88.00000,58.00000' which='0' elec='1' direction='0' part='0' number='1' show='1' length='70' number_pos='0' centre_name='0'>SCL</PIN>
+				<PIN pos='80.00000,58.00000' which='0' elec='1' direction='0' part='0' number='2' show='1' length='70' number_pos='0' centre_name='0'>SDA</PIN>
+				<PIN pos='22.00000,44.00000' which='0' elec='0' direction='3' part='0' number='13' show='3' length='20' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='22.00000,40.00000' which='0' elec='0' direction='3' part='0' number='14' show='3' length='20' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='116.00000,14.00000' which='0' elec='0' direction='1' part='0' number='15' show='3' length='30' number_pos='0' centre_name='0'>TXD</PIN>
+				<PIN pos='108.00000,14.00000' which='0' elec='0' direction='1' part='0' number='16' show='3' length='30' number_pos='0' centre_name='0'>RXD</PIN>
+				<PIN pos='100.00000,14.00000' which='0' elec='0' direction='1' part='0' number='17' show='3' length='30' number_pos='0' centre_name='0'>RESET</PIN>
+				<PIN pos='92.00000,14.00000' which='0' elec='0' direction='1' part='0' number='18' show='3' length='30' number_pos='0' centre_name='0'>GND</PIN>
+				<PIN pos='84.00000,14.00000' which='0' elec='0' direction='1' part='0' number='19' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='76.00000,14.00000' which='0' elec='0' direction='1' part='0' number='20' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='68.00000,14.00000' which='0' elec='0' direction='1' part='0' number='21' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='60.00000,14.00000' which='0' elec='0' direction='1' part='0' number='22' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='52.00000,14.00000' which='0' elec='0' direction='1' part='0' number='23' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='44.00000,14.00000' which='0' elec='0' direction='1' part='0' number='24' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='36.00000,14.00000' which='0' elec='0' direction='1' part='0' number='25' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='28.00000,14.00000' which='0' elec='0' direction='1' part='0' number='26' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='126.00000,24.00000' which='0' elec='1' direction='2' part='0' number='1' show='1' length='30' number_pos='0' centre_name='1'>TXD</PIN>
+				<PIN pos='126.00000,30.00000' which='0' elec='0' direction='2' part='0' number='2' show='1' length='30' number_pos='0' centre_name='1'>RXD</PIN>
+				<PIN pos='126.00000,38.00000' which='0' elec='0' direction='2' part='0' number='3' show='1' length='30' number_pos='0' centre_name='1'>VCC</PIN>
+				<PIN pos='126.00000,44.00000' which='0' elec='0' direction='2' part='0' number='' show='3' length='30' number_pos='0' centre_name='1'>GND</PIN>
+				<TEXT pos='34.00000,28.00000' direction='3' font='4' color='000000'>Arduino Mini Pro (5V)</TEXT>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='5'>
+			<NAME type='0'>R</NAME>
+			<REF type='0'>R?</REF>
+			<DESCRIPTION>Resistor</DESCRIPTION>
+			<PPP>1</PPP>
+			<GUID></GUID>
+			<REF_POINT power='0' part='0' pos='84.00000,53.00000'/>
+			<TinyCAD>
+				<PIN pos='82.00000,43.00000' which='5' elec='4' direction='1' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='82.00000,51.00000' which='5' elec='4' direction='0' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<POLYGON pos='82.00000,43.00000' style='12' fill='0' polygon='0'>
+					<POINT pos='0.00000,1.60000' arc='0'/>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='82.00000,50.40000' style='12' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+					<POINT pos='0.00000,1.60000' arc='0'/>
+				</POLYGON>
+				<RECTANGLE a='80.40000,44.60000' b='83.40000,50.40000' style='12' fill='0'/>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<RECTANGLE a='194.00000,46.00000' b='250.00000,84.00000' style='12' fill='5'/>
+		<SYMBOL id='1' pos='162.00000,106.00000' part='0' rotate='0' can_scale='1' show_power='0' scale_x='0.65421' scale_y='0.97826'>
+			<FIELD type='0' description='Ref' value='RP4?' show='0' pos='1.00000,-87.60000'/>
+			<FIELD type='0' description='Name' value='RaspberryPi4' show='1' pos='1.00000,-78.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-85.20000'/>
+			<HINT pin='1' net='1'/>
+			<HINT pin='10' net='10'/>
+			<HINT pin='11' net='11'/>
+			<HINT pin='12' net='12'/>
+			<HINT pin='13' net='13'/>
+			<HINT pin='14' net='14'/>
+			<HINT pin='15' net='15'/>
+			<HINT pin='16' net='16'/>
+			<HINT pin='17' net='17'/>
+			<HINT pin='18' net='18'/>
+			<HINT pin='19' net='19'/>
+			<HINT pin='2' net='2'/>
+			<HINT pin='20' net='20'/>
+			<HINT pin='21' net='615'/>
+			<HINT pin='22' net='22'/>
+			<HINT pin='23' net='23'/>
+			<HINT pin='24' net='24'/>
+			<HINT pin='25' net='25'/>
+			<HINT pin='26' net='26'/>
+			<HINT pin='27' net='27'/>
+			<HINT pin='28' net='619'/>
+			<HINT pin='29' net='28'/>
+			<HINT pin='3' net='3'/>
+			<HINT pin='30' net='30'/>
+			<HINT pin='31' net='31'/>
+			<HINT pin='32' net='32'/>
+			<HINT pin='33' net='621'/>
+			<HINT pin='34' net='34'/>
+			<HINT pin='35' net='35'/>
+			<HINT pin='36' net='36'/>
+			<HINT pin='37' net='37'/>
+			<HINT pin='38' net='38'/>
+			<HINT pin='39' net='39'/>
+			<HINT pin='4' net='4'/>
+			<HINT pin='40' net='40'/>
+			<HINT pin='5' net='5'/>
+			<HINT pin='6' net='6'/>
+			<HINT pin='7' net='7'/>
+			<HINT pin='8' net='8'/>
+			<HINT pin='9' net='9'/>
+		</SYMBOL>
+		<WIRE style='3' a='155.45794,106.00000' b='166.00000,106.00000'/>
+		<WIRE style='3' a='166.00000,106.00000' b='166.00000,34.00000'/>
+		<WIRE style='3' a='166.00000,34.00000' b='221.56364,34.00000'/>
+		<WIRE style='3' a='221.56364,34.00000' b='221.56364,84.00000'/>
+		<WIRE style='3' a='221.56364,34.00000' b='221.56364,46.00000'/>
+		<SYMBOL id='3' pos='206.00000,200.00000' part='0' rotate='7' can_scale='1' show_power='0' scale_x='0.46154' scale_y='0.68182'>
+			<FIELD type='0' description='Ref' value='ID 8/9' show='1' pos='2.00000,-46.00000'/>
+			<FIELD type='0' description='Name' value='ArduinoMini' show='1' pos='-2.00000,-48.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='-30.00000,4.40000'/>
+			<HINT pin='' net='6'/>
+			<HINT pin='1' net='668'/>
+			<HINT pin='10' net='64'/>
+			<HINT pin='11' net='65'/>
+			<HINT pin='12' net='66'/>
+			<HINT pin='13' net='69'/>
+			<HINT pin='14' net='70'/>
+			<HINT pin='15' net='71'/>
+			<HINT pin='16' net='72'/>
+			<HINT pin='17' net='73'/>
+			<HINT pin='18' net='74'/>
+			<HINT pin='19' net='75'/>
+			<HINT pin='2' net='669'/>
+			<HINT pin='20' net='76'/>
+			<HINT pin='21' net='77'/>
+			<HINT pin='22' net='78'/>
+			<HINT pin='23' net='79'/>
+			<HINT pin='24' net='80'/>
+			<HINT pin='25' net='81'/>
+			<HINT pin='26' net='82'/>
+			<HINT pin='3' net='57'/>
+			<HINT pin='4' net='58'/>
+			<HINT pin='5' net='59'/>
+			<HINT pin='6' net='60'/>
+			<HINT pin='7' net='61'/>
+			<HINT pin='8' net='62'/>
+			<HINT pin='9' net='63'/>
+		</SYMBOL>
+		<SYMBOL id='3' pos='166.00000,200.00000' part='0' rotate='7' can_scale='1' show_power='0' scale_x='0.46154' scale_y='0.68182'>
+			<FIELD type='0' description='Ref' value='ID 6/7' show='1' pos='2.00000,-46.00000'/>
+			<FIELD type='0' description='Name' value='ArduinoMini' show='1' pos='-2.00000,-48.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='-30.00000,4.40000'/>
+			<HINT pin='' net='6'/>
+			<HINT pin='1' net='670'/>
+			<HINT pin='10' net='95'/>
+			<HINT pin='11' net='96'/>
+			<HINT pin='12' net='97'/>
+			<HINT pin='13' net='100'/>
+			<HINT pin='14' net='101'/>
+			<HINT pin='15' net='102'/>
+			<HINT pin='16' net='103'/>
+			<HINT pin='17' net='104'/>
+			<HINT pin='18' net='105'/>
+			<HINT pin='19' net='106'/>
+			<HINT pin='2' net='671'/>
+			<HINT pin='20' net='107'/>
+			<HINT pin='21' net='108'/>
+			<HINT pin='22' net='109'/>
+			<HINT pin='23' net='110'/>
+			<HINT pin='24' net='111'/>
+			<HINT pin='25' net='112'/>
+			<HINT pin='26' net='113'/>
+			<HINT pin='3' net='88'/>
+			<HINT pin='4' net='89'/>
+			<HINT pin='5' net='90'/>
+			<HINT pin='6' net='91'/>
+			<HINT pin='7' net='92'/>
+			<HINT pin='8' net='93'/>
+			<HINT pin='9' net='94'/>
+		</SYMBOL>
+		<SYMBOL id='3' pos='126.00000,200.00000' part='0' rotate='7' can_scale='1' show_power='0' scale_x='0.46154' scale_y='0.68182'>
+			<FIELD type='0' description='Ref' value='ID 4/5' show='1' pos='2.00000,-46.00000'/>
+			<FIELD type='0' description='Name' value='ArduinoMini' show='1' pos='-2.00000,-48.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='-30.00000,4.40000'/>
+			<HINT pin='' net='6'/>
+			<HINT pin='1' net='672'/>
+			<HINT pin='10' net='126'/>
+			<HINT pin='11' net='127'/>
+			<HINT pin='12' net='128'/>
+			<HINT pin='13' net='131'/>
+			<HINT pin='14' net='132'/>
+			<HINT pin='15' net='133'/>
+			<HINT pin='16' net='134'/>
+			<HINT pin='17' net='135'/>
+			<HINT pin='18' net='136'/>
+			<HINT pin='19' net='137'/>
+			<HINT pin='2' net='673'/>
+			<HINT pin='20' net='138'/>
+			<HINT pin='21' net='139'/>
+			<HINT pin='22' net='140'/>
+			<HINT pin='23' net='141'/>
+			<HINT pin='24' net='142'/>
+			<HINT pin='25' net='143'/>
+			<HINT pin='26' net='144'/>
+			<HINT pin='3' net='119'/>
+			<HINT pin='4' net='120'/>
+			<HINT pin='5' net='121'/>
+			<HINT pin='6' net='122'/>
+			<HINT pin='7' net='123'/>
+			<HINT pin='8' net='124'/>
+			<HINT pin='9' net='125'/>
+		</SYMBOL>
+		<SYMBOL id='3' pos='84.00000,200.00000' part='0' rotate='7' can_scale='1' show_power='0' scale_x='0.46154' scale_y='0.68182'>
+			<FIELD type='0' description='Ref' value='ID 2/3' show='1' pos='0.00000,-46.00000'/>
+			<FIELD type='0' description='Name' value='ArduinoMini' show='1' pos='-2.00000,-48.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='-30.00000,4.40000'/>
+			<HINT pin='' net='6'/>
+			<HINT pin='1' net='675'/>
+			<HINT pin='10' net='157'/>
+			<HINT pin='11' net='158'/>
+			<HINT pin='12' net='159'/>
+			<HINT pin='13' net='162'/>
+			<HINT pin='14' net='163'/>
+			<HINT pin='15' net='164'/>
+			<HINT pin='16' net='165'/>
+			<HINT pin='17' net='166'/>
+			<HINT pin='18' net='167'/>
+			<HINT pin='19' net='168'/>
+			<HINT pin='2' net='676'/>
+			<HINT pin='20' net='169'/>
+			<HINT pin='21' net='170'/>
+			<HINT pin='22' net='171'/>
+			<HINT pin='23' net='172'/>
+			<HINT pin='24' net='173'/>
+			<HINT pin='25' net='174'/>
+			<HINT pin='26' net='175'/>
+			<HINT pin='3' net='150'/>
+			<HINT pin='4' net='151'/>
+			<HINT pin='5' net='152'/>
+			<HINT pin='6' net='153'/>
+			<HINT pin='7' net='154'/>
+			<HINT pin='8' net='155'/>
+			<HINT pin='9' net='156'/>
+		</SYMBOL>
+		<SYMBOL id='3' pos='44.00000,200.00000' part='0' rotate='7' can_scale='1' show_power='0' scale_x='0.46154' scale_y='0.68182'>
+			<FIELD type='0' description='Ref' value='ID 0/1' show='1' pos='2.00000,-46.00000'/>
+			<FIELD type='0' description='Name' value='ArduinoMini' show='1' pos='-2.00000,-48.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='-30.00000,4.40000'/>
+			<HINT pin='' net='6'/>
+			<HINT pin='1' net='678'/>
+			<HINT pin='10' net='188'/>
+			<HINT pin='11' net='189'/>
+			<HINT pin='12' net='190'/>
+			<HINT pin='13' net='193'/>
+			<HINT pin='14' net='194'/>
+			<HINT pin='15' net='195'/>
+			<HINT pin='16' net='196'/>
+			<HINT pin='17' net='197'/>
+			<HINT pin='18' net='198'/>
+			<HINT pin='19' net='199'/>
+			<HINT pin='2' net='679'/>
+			<HINT pin='20' net='200'/>
+			<HINT pin='21' net='201'/>
+			<HINT pin='22' net='202'/>
+			<HINT pin='23' net='203'/>
+			<HINT pin='24' net='204'/>
+			<HINT pin='25' net='205'/>
+			<HINT pin='26' net='206'/>
+			<HINT pin='3' net='181'/>
+			<HINT pin='4' net='182'/>
+			<HINT pin='5' net='183'/>
+			<HINT pin='6' net='184'/>
+			<HINT pin='7' net='185'/>
+			<HINT pin='8' net='186'/>
+			<HINT pin='9' net='187'/>
+		</SYMBOL>
+		<WIRE style='3' a='221.56364,84.00000' b='222.00000,84.00000'/>
+		<WIRE style='3' a='222.00000,84.00000' b='222.00000,130.00000'/>
+		<WIRE style='3' a='68.00000,130.00000' b='27.63632,130.00000'/>
+		<WIRE style='3' a='27.63632,130.00000' b='27.63632,151.99984'/>
+		<JUNCTION pos='68.00000,130.00000'/>
+		<WIRE style='3' a='68.00000,130.00000' b='68.00000,151.99984'/>
+		<WIRE style='3' a='110.00000,130.00000' b='68.00000,130.00000'/>
+		<WIRE style='3' a='68.00000,151.99984' b='67.63632,151.99984'/>
+		<WIRE style='3' a='109.63632,151.99984' b='110.00000,151.99984'/>
+		<WIRE style='3' a='110.00000,151.99984' b='110.00000,130.00000'/>
+		<JUNCTION pos='110.00000,130.00000'/>
+		<WIRE style='3' a='150.00000,130.00000' b='110.00000,130.00000'/>
+		<WIRE style='3' a='149.63632,151.99984' b='150.00000,151.99984'/>
+		<WIRE style='3' a='150.00000,151.99984' b='150.00000,130.00000'/>
+		<JUNCTION pos='150.00000,130.00000'/>
+		<WIRE style='3' a='190.00000,130.00000' b='150.00000,130.00000'/>
+		<WIRE style='3' a='189.63636,152.00000' b='190.00000,152.00000'/>
+		<WIRE style='3' a='190.00000,152.00000' b='190.00000,130.00000'/>
+		<JUNCTION pos='190.00000,130.00000'/>
+		<WIRE style='3' a='222.00000,130.00000' b='190.00000,130.00000'/>
+		<LABEL pos='221.56364,76.00000' direction='1' font='30' color='208000' style='0'>VCC</LABEL>
+		<WIRE style='4' a='129.28972,106.00000' b='130.00000,106.00000'/>
+		<WIRE style='4' a='130.00000,106.00000' b='130.00000,112.00000'/>
+		<WIRE style='4' a='130.00000,112.00000' b='172.00000,112.00000'/>
+		<WIRE style='4' a='172.00000,76.00000' b='172.00000,38.00000'/>
+		<WIRE style='4' a='70.41121,106.00000' b='72.00000,106.00000'/>
+		<WIRE style='4' a='72.00000,106.00000' b='72.00000,114.00000'/>
+		<WIRE style='4' a='72.00000,114.00000' b='178.00000,114.00000'/>
+		<WIRE style='4' a='178.00000,76.00000' b='178.00000,40.00000'/>
+		<WIRE style='4' a='49.47664,16.00000' b='50.00000,16.00000'/>
+		<WIRE style='4' a='50.00000,16.00000' b='50.00000,6.00000'/>
+		<WIRE style='13' a='88.72897,16.00000' b='90.00000,16.00000'/>
+		<WIRE style='13' a='90.00000,16.00000' b='90.00000,10.00000'/>
+		<WIRE style='4' a='50.00000,6.00000' b='242.94545,6.00000'/>
+		<WIRE style='14' a='62.56075,16.00000' b='64.00000,16.00000'/>
+		<WIRE style='14' a='64.00000,16.00000' b='64.00000,8.00000'/>
+		<WIRE style='14' a='64.00000,8.00000' b='235.81818,8.00000'/>
+		<WIRE style='13' a='90.00000,10.00000' b='228.00000,10.00000'/>
+		<LABEL pos='242.94545,38.00000' direction='1' font='21' color='000000' style='2'>RXD 4</LABEL>
+		<LABEL pos='235.81818,38.00000' direction='1' font='21' color='000000' style='2'>RXD 2</LABEL>
+		<LABEL pos='228.00000,38.00000' direction='1' font='21' color='000000' style='2'>RXD 3</LABEL>
+		<LABEL pos='178.00000,76.00000' direction='1' font='21' color='000000' style='1'>RXD 0</LABEL>
+		<LABEL pos='172.00000,76.00000' direction='1' font='21' color='000000' style='1'>RXD 1</LABEL>
+		<JUNCTION pos='172.00000,76.00000'/>
+		<JUNCTION pos='178.00000,76.00000'/>
+		<WIRE style='4' a='178.00000,114.00000' b='178.00000,76.00000'/>
+		<WIRE style='4' a='172.00000,112.00000' b='172.00000,76.00000'/>
+		<WIRE style='14' a='235.81818,8.00000' b='235.81818,38.00000'/>
+		<WIRE style='4' a='242.94545,6.00000' b='242.94545,38.00000'/>
+		<JUNCTION pos='242.94545,38.00000'/>
+		<JUNCTION pos='235.81818,38.00000'/>
+		<WIRE style='7' a='142.37383,106.00000' b='142.37383,108.00000'/>
+		<WIRE style='7' a='142.37383,108.00000' b='184.00000,108.00000'/>
+		<WIRE style='7' a='184.00000,108.00000' b='184.00000,42.00000'/>
+		<WIRE style='7' a='184.00000,42.00000' b='200.18182,42.00000'/>
+		<WIRE style='7' a='200.18182,42.00000' b='200.18182,84.00000'/>
+		<WIRE style='7' a='200.18182,74.00000' b='200.18182,84.00000'/>
+		<LABEL pos='200.18182,76.00000' direction='1' font='29' color='208000' style='0'>GND</LABEL>
+		<WIRE style='4' a='244.00000,84.00000' b='244.00000,146.00000'/>
+		<WIRE style='4' a='244.00000,146.00000' b='199.18182,146.00000'/>
+		<WIRE style='4' a='199.18182,146.00000' b='199.18182,152.00000'/>
+		<WIRE style='14' a='235.81818,84.00000' b='236.00000,84.00000'/>
+		<WIRE style='14' a='236.00000,142.00000' b='159.18180,142.00000'/>
+		<WIRE style='14' a='159.18180,142.00000' b='159.18180,151.99984'/>
+		<WIRE style='4' a='228.00000,84.00000' b='228.00000,138.00000'/>
+		<WIRE style='4' a='228.00000,138.00000' b='119.18180,138.00000'/>
+		<WIRE style='4' a='119.18180,138.00000' b='119.18180,151.99984'/>
+		<WIRE style='4' a='214.00000,84.00000' b='214.00000,126.00000'/>
+		<WIRE style='4' a='214.00000,126.00000' b='77.18180,126.00000'/>
+		<WIRE style='4' a='77.18180,126.00000' b='77.18180,151.99984'/>
+		<WIRE style='4' a='209.00000,84.00000' b='206.00000,84.00000'/>
+		<WIRE style='4' a='206.00000,84.00000' b='206.00000,122.00000'/>
+		<WIRE style='4' a='206.00000,122.00000' b='37.18180,122.00000'/>
+		<WIRE style='4' a='37.18180,122.00000' b='37.18180,151.99984'/>
+		<LABEL pos='244.00000,114.00000' direction='1' font='30' color='000000' style='2'>TX 8/9</LABEL>
+		<JUNCTION pos='244.00000,114.00000'/>
+		<LABEL pos='236.00000,114.00000' direction='1' font='30' color='000000' style='2'>TX 6/7</LABEL>
+		<JUNCTION pos='236.00000,114.00000'/>
+		<LABEL pos='228.00000,114.00000' direction='1' font='30' color='000000' style='2'>TX 4/5</LABEL>
+		<JUNCTION pos='228.00000,114.00000'/>
+		<LABEL pos='214.00000,114.00000' direction='1' font='30' color='000000' style='2'>TX 2/3</LABEL>
+		<JUNCTION pos='214.00000,114.00000'/>
+		<LABEL pos='206.00000,114.00000' direction='1' font='30' color='000000' style='2'>TX 0/1</LABEL>
+		<JUNCTION pos='206.00000,114.00000'/>
+		<WIRE style='7' a='200.18182,84.00000' b='200.00000,84.00000'/>
+		<WIRE style='7' a='200.00000,84.00000' b='200.00000,120.00000'/>
+		<WIRE style='7' a='185.54545,120.00000' b='185.54545,152.00000'/>
+		<JUNCTION pos='185.54545,120.00000'/>
+		<WIRE style='7' a='200.00000,120.00000' b='185.54545,120.00000'/>
+		<WIRE style='7' a='145.54540,120.00000' b='145.54540,151.99984'/>
+		<JUNCTION pos='145.54540,120.00000'/>
+		<WIRE style='7' a='185.54545,120.00000' b='145.54540,120.00000'/>
+		<WIRE style='7' a='105.54540,120.00000' b='105.54540,151.99984'/>
+		<JUNCTION pos='105.54540,120.00000'/>
+		<WIRE style='7' a='145.54540,120.00000' b='105.54540,120.00000'/>
+		<WIRE style='7' a='63.54540,120.00000' b='63.54540,151.99984'/>
+		<WIRE style='7' a='63.54540,120.00000' b='23.54540,120.00000'/>
+		<JUNCTION pos='63.54540,120.00000'/>
+		<WIRE style='7' a='105.54540,120.00000' b='63.54540,120.00000'/>
+		<WIRE style='7' a='23.54540,120.00000' b='23.54540,151.99984'/>
+		<WIRE style='10' a='57.32710,106.00000' b='58.00000,106.00000'/>
+		<WIRE style='10' a='58.00000,106.00000' b='58.00000,110.00000'/>
+		<WIRE style='10' a='58.00000,110.00000' b='2.00000,110.00000'/>
+		<WIRE style='10' a='2.00000,110.00000' b='2.00000,208.00000'/>
+		<WIRE style='10' a='2.00000,208.00000' b='212.00000,208.00000'/>
+		<WIRE style='10' a='212.00000,208.00000' b='212.00000,156.00000'/>
+		<WIRE style='10' a='212.00000,156.00000' b='218.00000,156.00000'/>
+		<WIRE style='10' a='218.00000,156.00000' b='218.00000,144.00000'/>
+		<WIRE style='10' a='218.00000,144.00000' b='195.09091,144.00000'/>
+		<WIRE style='10' a='195.09091,144.00000' b='195.09091,152.00000'/>
+		<WIRE style='10' a='83.49533,106.00000' b='84.00000,106.00000'/>
+		<WIRE style='10' a='84.00000,106.00000' b='84.00000,112.00000'/>
+		<WIRE style='10' a='84.00000,112.00000' b='10.00000,112.00000'/>
+		<WIRE style='10' a='10.00000,112.00000' b='10.00000,202.00000'/>
+		<WIRE style='10' a='10.00000,202.00000' b='130.00000,202.00000'/>
+		<WIRE style='10' a='130.00000,202.00000' b='130.00000,146.00000'/>
+		<WIRE style='10' a='130.00000,146.00000' b='115.09088,146.00000'/>
+		<WIRE style='10' a='115.09088,146.00000' b='115.09088,151.99984'/>
+		<WIRE style='10' a='135.83178,106.00000' b='136.00000,106.00000'/>
+		<WIRE style='10' a='136.00000,106.00000' b='136.00000,116.00000'/>
+		<WIRE style='10' a='136.00000,116.00000' b='33.09088,116.00000'/>
+		<WIRE style='10' a='33.09088,116.00000' b='33.09088,151.99984'/>
+		<WIRE style='10' a='134.52336,16.00000' b='134.00000,16.00000'/>
+		<WIRE style='10' a='134.00000,16.00000' b='134.00000,4.00000'/>
+		<WIRE style='10' a='134.00000,4.00000' b='6.00000,4.00000'/>
+		<WIRE style='10' a='6.00000,4.00000' b='6.00000,204.00000'/>
+		<WIRE style='10' a='6.00000,204.00000' b='170.00000,204.00000'/>
+		<WIRE style='10' a='170.00000,204.00000' b='170.00000,146.00000'/>
+		<WIRE style='10' a='170.00000,146.00000' b='155.09088,146.00000'/>
+		<WIRE style='10' a='155.09088,146.00000' b='155.09088,151.99984'/>
+		<WIRE style='10' a='69.10280,16.00000' b='68.00000,16.00000'/>
+		<WIRE style='10' a='68.00000,16.00000' b='68.00000,10.00000'/>
+		<WIRE style='10' a='68.00000,10.00000' b='14.00000,10.00000'/>
+		<WIRE style='10' a='14.00000,10.00000' b='14.00000,140.00000'/>
+		<WIRE style='10' a='14.00000,140.00000' b='73.09088,140.00000'/>
+		<WIRE style='10' a='73.09088,140.00000' b='73.09088,151.99984'/>
+		<SYMBOL id='5' pos='244.00000,76.00000' part='0' rotate='0' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.60000'>
+			<FIELD type='0' description='Ref' value='1k8' show='1' pos='1.00000,-1.60000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='1.00000,-4.00000'/>
+			<HINT pin='1' net='621'/>
+			<HINT pin='2' net='611'/>
+		</SYMBOL>
+		<JUNCTION pos='221.56364,34.00000'/>
+		<JUNCTION pos='200.18182,46.00000'/>
+		<JUNCTION pos='200.18182,84.00000'/>
+		<JUNCTION pos='221.56364,46.00000'/>
+		<WIRE style='4' a='242.94545,38.00000' b='243.02856,46.00000'/>
+		<WIRE style='4' a='243.00000,70.00000' b='243.02856,52.00000'/>
+		<WIRE style='4' a='243.02856,50.00000' b='243.02856,46.00000'/>
+		<WIRE style='4' a='244.00000,84.00000' b='243.00000,84.00000'/>
+		<WIRE style='4' a='243.00000,84.00000' b='243.00000,74.80000'/>
+		<WIRE style='14' a='236.00000,114.00000' b='236.00000,142.00000'/>
+		<SYMBOL id='5' pos='228.00000,76.00000' part='0' rotate='0' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.60000'>
+			<FIELD type='0' description='Ref' value='1k8' show='1' pos='1.00000,-1.60000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='1.00000,-4.00000'/>
+			<HINT pin='1' net='615'/>
+			<HINT pin='2' net='631'/>
+		</SYMBOL>
+		<SYMBOL id='5' pos='216.00000,72.00000' part='0' rotate='0' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.60000'>
+			<FIELD type='0' description='Ref' value='1k8' show='1' pos='1.00000,-1.60000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='1.00000,-4.00000'/>
+			<HINT pin='1' net='10'/>
+			<HINT pin='2' net='633'/>
+		</SYMBOL>
+		<SYMBOL id='5' pos='210.00000,76.00000' part='0' rotate='0' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.60000'>
+			<FIELD type='0' description='Ref' value='1k8' show='1' pos='1.00000,-1.60000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='1.00000,-4.00000'/>
+			<HINT pin='1' net='619'/>
+			<HINT pin='2' net='636'/>
+		</SYMBOL>
+		<WIRE style='4' a='214.00000,84.00000' b='215.00000,84.00000'/>
+		<WIRE style='4' a='215.00000,84.00000' b='215.00000,70.80000'/>
+		<WIRE style='4' a='209.00000,84.00000' b='209.00000,74.80000'/>
+		<WIRE style='4' a='172.00000,38.00000' b='215.00000,38.00000'/>
+		<WIRE style='4' a='215.00000,64.00000' b='215.00000,66.00000'/>
+		<WIRE style='4' a='178.00000,40.00000' b='209.00000,40.00000'/>
+		<WIRE style='4' a='209.00000,68.00000' b='209.00000,70.00000'/>
+		<WIRE style='4' a='227.00000,74.80000' b='227.00000,84.00000'/>
+		<WIRE style='4' a='227.00000,84.00000' b='228.00000,84.00000'/>
+		<WIRE style='13' a='227.00000,70.00000' b='228.00000,70.00000'/>
+		<WIRE style='13' a='228.00000,38.00000' b='228.00000,10.00000'/>
+		<JUNCTION pos='228.00000,38.00000'/>
+		<WIRE style='13' a='228.00000,60.00000' b='228.00000,38.00000'/>
+		<WIRE style='14' a='235.81818,46.00000' b='236.00000,46.00000'/>
+		<SYMBOL id='5' pos='236.00000,72.00000' part='0' rotate='0' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.60000'>
+			<FIELD type='0' description='Ref' value='1k8' show='1' pos='1.00000,-1.60000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='1.00000,-4.00000'/>
+			<HINT pin='1' net='28'/>
+			<HINT pin='2' net='642'/>
+		</SYMBOL>
+		<WIRE style='14' a='235.00000,66.00000' b='235.81818,66.00000'/>
+		<WIRE style='14' a='235.81818,46.00000' b='235.81818,38.00000'/>
+		<JUNCTION pos='235.81818,46.00000'/>
+		<WIRE style='14' a='235.81818,54.00000' b='235.81818,46.00000'/>
+		<WIRE style='14' a='235.00000,70.80000' b='236.00000,70.80000'/>
+		<WIRE style='14' a='236.00000,84.00000' b='236.00000,114.00000'/>
+		<JUNCTION pos='236.00000,84.00000'/>
+		<WIRE style='14' a='236.00000,70.80000' b='236.00000,84.00000'/>
+		<SYMBOL id='5' pos='206.00000,68.00000' part='0' rotate='2' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.40000'>
+			<FIELD type='0' description='Ref' value='3k3' show='1' pos='-4.00000,2.00000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='-4.00000,-2.00000'/>
+		</SYMBOL>
+		<SYMBOL id='5' pos='206.00000,62.00000' part='0' rotate='2' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.40000'>
+			<FIELD type='0' description='Ref' value='3k3' show='1' pos='-4.00000,2.00000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='-4.00000,-2.00000'/>
+		</SYMBOL>
+		<SYMBOL id='5' pos='206.00000,56.00000' part='0' rotate='2' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.40000'>
+			<FIELD type='0' description='Ref' value='3k3' show='1' pos='-4.00000,2.00000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='-4.00000,-2.00000'/>
+		</SYMBOL>
+		<SYMBOL id='5' pos='206.00000,50.00000' part='0' rotate='2' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.40000'>
+			<FIELD type='0' description='Ref' value='3k3' show='1' pos='-4.00000,2.00000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='-4.00000,-2.00000'/>
+		</SYMBOL>
+		<SYMBOL id='5' pos='206.00000,74.00000' part='0' rotate='2' can_scale='1' show_power='0' scale_x='0.50000' scale_y='0.40000'>
+			<FIELD type='0' description='Ref' value='3k3' show='1' pos='-4.00000,2.00000'/>
+			<FIELD type='0' description='Name' value='R' show='1' pos='-4.00000,-2.00000'/>
+		</SYMBOL>
+		<WIRE a='205.20000,73.00000' b='206.00000,73.00000'/>
+		<WIRE a='206.00000,73.00000' b='206.00000,68.00000'/>
+		<WIRE a='206.00000,68.00000' b='209.00000,68.00000'/>
+		<JUNCTION pos='209.00000,68.00000'/>
+		<WIRE style='4' a='209.00000,40.00000' b='209.00000,68.00000'/>
+		<WIRE a='205.20000,67.00000' b='205.20000,64.00000'/>
+		<WIRE a='205.20000,64.00000' b='215.00000,64.00000'/>
+		<JUNCTION pos='215.00000,64.00000'/>
+		<WIRE style='4' a='215.00000,38.00000' b='215.00000,64.00000'/>
+		<WIRE a='205.20000,61.00000' b='205.20000,60.00000'/>
+		<WIRE a='205.20000,60.00000' b='228.00000,60.00000'/>
+		<JUNCTION pos='228.00000,60.00000'/>
+		<WIRE style='13' a='228.00000,70.00000' b='228.00000,60.00000'/>
+		<WIRE a='205.20000,55.00000' b='205.20000,54.00000'/>
+		<WIRE a='205.20000,54.00000' b='235.81818,54.00000'/>
+		<JUNCTION pos='235.81818,54.00000'/>
+		<WIRE style='14' a='235.81818,66.00000' b='235.81818,54.00000'/>
+		<JUNCTION pos='243.02856,50.00000'/>
+		<WIRE a='205.20000,49.00000' b='240.00000,49.00000'/>
+		<WIRE a='240.00000,49.00000' b='240.00000,50.00000'/>
+		<WIRE a='240.00000,50.00000' b='243.02856,50.00000'/>
+		<WIRE style='4' a='243.02856,52.00000' b='243.02856,50.00000'/>
+		<JUNCTION pos='200.18182,50.00000'/>
+		<WIRE style='7' a='200.18182,50.00000' b='202.00000,50.00000'/>
+		<WIRE style='7' a='200.18182,46.00000' b='200.18182,50.00000'/>
+		<WIRE style='7' a='202.00000,50.00000' b='202.00000,49.00000'/>
+		<JUNCTION pos='200.18182,56.00000'/>
+		<WIRE style='7' a='200.18182,56.00000' b='202.00000,56.00000'/>
+		<WIRE style='7' a='200.18182,50.00000' b='200.18182,56.00000'/>
+		<WIRE style='7' a='202.00000,56.00000' b='202.00000,55.00000'/>
+		<JUNCTION pos='200.18182,62.00000'/>
+		<WIRE style='7' a='200.18182,62.00000' b='202.00000,62.00000'/>
+		<WIRE style='7' a='200.18182,56.00000' b='200.18182,62.00000'/>
+		<WIRE style='7' a='202.00000,62.00000' b='202.00000,61.00000'/>
+		<JUNCTION pos='200.18182,68.00000'/>
+		<WIRE style='7' a='200.18182,68.00000' b='202.00000,68.00000'/>
+		<WIRE style='7' a='200.18182,62.00000' b='200.18182,68.00000'/>
+		<WIRE style='7' a='202.00000,68.00000' b='202.00000,67.00000'/>
+		<JUNCTION pos='200.18182,74.00000'/>
+		<WIRE style='7' a='200.18182,74.00000' b='202.00000,74.00000'/>
+		<WIRE style='7' a='200.18182,68.00000' b='200.18182,74.00000'/>
+		<WIRE style='7' a='202.00000,74.00000' b='202.00000,73.00000'/>
+		<TEXT pos='250.00000,50.00000' direction='3' font='0' color='000000'>Spannungsteiler 5V → 3,3V</TEXT>
+		<LABEL pos='244.00000,90.00000' direction='3' font='30' color='208000' style='0'>5V</LABEL>
+		<LABEL pos='236.00000,90.00000' direction='3' font='30' color='208000' style='0'>5V</LABEL>
+		<LABEL pos='228.00000,90.00000' direction='3' font='30' color='208000' style='0'>5V</LABEL>
+		<LABEL pos='214.00000,90.00000' direction='3' font='30' color='208000' style='0'>5V</LABEL>
+		<LABEL pos='206.00000,90.00000' direction='3' font='30' color='208000' style='0'>5V</LABEL>
+		<LABEL pos='243.00778,44.00000' direction='3' font='30' color='208000' style='0'>3,3V</LABEL>
+		<LABEL pos='235.81818,44.00000' direction='3' font='30' color='208000' style='0'>3,3V</LABEL>
+		<LABEL pos='228.00000,44.00000' direction='3' font='30' color='208000' style='0'>3,3V</LABEL>
+		<LABEL pos='215.00000,44.00000' direction='3' font='30' color='208000' style='0'>3,3V</LABEL>
+		<LABEL pos='209.00000,44.00000' direction='3' font='30' color='208000' style='0'>3,3V</LABEL>
+		<TEXT pos='230.00000,182.00000' direction='3' font='0' color='000000'>Arduino Mini zu Raspberry Pi 4</TEXT>
+		<TEXT pos='230.00000,190.00000' direction='3' font='0' color='000000'>Marco Stoiber</TEXT>
+		<TEXT pos='230.00000,200.00000' direction='3' font='0' color='000000'>ArduinoToRP4</TEXT>
+		<TEXT pos='252.00000,208.00000' direction='3' font='0' color='000000'>17.07.2020</TEXT>
+	</TinyCAD>
+</TinyCADSheets>
